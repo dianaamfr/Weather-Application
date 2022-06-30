@@ -1,10 +1,17 @@
 # Weather Application
 A Weather Forecast Mobile App developed in Flutter
 
+## Brief
+This project aims to provide an application for weather data consultation. 
+The user is able to manage a list of cities he is interested in, among the district capitals of Portugal, for which he can obtain information about the weather. The user can consult the current weather conditions in each of these cities and he is also able to define a favorite location.
+Furthermore, the user can consult the weather forecasts for the next 5 days for each of the cities in his list in increments of 3 hours, obtaining information about the temperature, pressure, precipitation, wind, and humidity.
+
 ## Interface
-Main Page | Manage Locations Page | City Page
---- | --- | ---
-![main page](./images/main_page.png) | ![city page](./images/city_page.png) | ![manage locations page](./images/manage_locations_page.png)
+<p float="left"> 
+  <img src="./images/main_page.png" width="200" height="400"/>
+  <img src="./images/city_page.png" width="200" height="400"/>
+  <img src="./images/manage_locations_page.png" width="200" height="400" />
+ </p> 
 
 ## Application Flow
 ![Flow](./images/flow.png)
@@ -14,6 +21,6 @@ Main Page | Manage Locations Page | City Page
 - **City Page**: As well as in the Manage Locations Page, from this page the user is only allowed to navigate back to the Main Page. 
 
 ## Contributors
-- ![Diana Freitas](https://github.com/dianaamfr)
-- ![Juliane Marubayashi](https://github.com/Jumaruba)
-- ![Jose Rodrigues](https://github.com/zepedro9)
+- [Diana Freitas](https://github.com/dianaamfr)
+- [Juliane Marubayashi](https://github.com/Jumaruba)
+- [Jose Rodrigues](https://github.com/zepedro9)
